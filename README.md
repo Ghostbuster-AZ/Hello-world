@@ -1,4 +1,4 @@
 # Hello-world
-Just main repository
+Just Readme-edit repository
 
 Hello there, im starting to like github
