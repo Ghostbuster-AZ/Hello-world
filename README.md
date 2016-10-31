@@ -1,4 +1,4 @@
 # Hello-world
-Just a repository
+Just main repository
 
 Hello there, im starting to like github
